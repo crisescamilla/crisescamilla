@@ -25,11 +25,13 @@ Hola, soy Cristian Escamilla, un Desarollador apasionado por la tecnologia y sus
 
 Cargo - Desarollador.
 Fecha de inicio - Mayo 2023.
+Administrador de página.
 
-### [Nombre de la Empresa 2](enlace a la empresa)
+### Fiverr (https://es.fiverr.com/crisesc?up_rollout=true)
 
-Cargo | Fecha de inicio - Fecha de finalización
-Descripción de tus responsabilidades y logros en la empresa 2.
+Cargo - Diseñador Gráfico 
+Fecha de inicio - Diciembre 2023
+Creacion y Diseño de logos animados.
 
 ## Educación
 
