@@ -14,6 +14,8 @@ Hola, soy Cristian Escamilla, un Desarollador apasionado por la tecnologia y sus
 - JAVASCRIPT
 - PYTHON
 - SQL
+- R
+- BIG DATA
 - ORACLE CLOUD INFRASTRUCTURE 
 - BASES DE DATOS
 - REDES
@@ -23,7 +25,11 @@ Hola, soy Cristian Escamilla, un Desarollador apasionado por la tecnologia y sus
 
 ### E-ShopExpres (https://www.e-shopexpress.shop/)
 
-Cargo - Desarollador.
+Cargo - Data Analyst.
+- Fecha de inicio - Marzo 2024.
+- Administrador de página.
+
+Cargo - Desarollador web.
 - Fecha de inicio - Mayo 2023.
 - Administrador de página.
 
@@ -34,6 +40,12 @@ Cargo - Diseñador Gráfico.
 - Creacion y Diseño de logos animados.
 
 ## Educación
+ - UTEL Universidad
+ - Ingeniería en sistemas computacionales
+
+## CERTIFICACIONES
+### Google - Coursera
+ - Data Analyst
 
 ### Cisco networking academy
  - Tecnico en redes.
